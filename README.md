@@ -9,7 +9,7 @@ Make sure you are using internet which doesn't require any special certificate.
 
 Right now the only problem is Rosehip is written for windows but the iso is linux formated...
 
-You can also use [the linux version of CITUR](https://github.com/CITUR-OS/CITUR-L) corresponding to [the linux version of Rosehip](https://github.com/donno2048/Rosehip-L)
+You can also use [the linux version of CITUR](https://github.com/CITUR-OS/CITUR-L) corresponding to [the linux version of Rosehip](https://github.com/CITUR-OS/Rosehip-L)
 
 The windows iso and the linux iso both using the same [VM setup steps](https://github.com/CITUR-OS/CITUR/blob/master/setup.md) and [bootable USB setup steps](https://github.com/CITUR-OS/CITUR/blob/master/boot.md) after you have the iso file
 
